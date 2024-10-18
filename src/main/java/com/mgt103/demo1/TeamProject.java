@@ -31,7 +31,7 @@ public class TeamProject extends Application {
     private TextArea aiSuggestionsArea = new TextArea();
 
     // Replace with your actual ChatGPT API key
-    private static final String apiKey = "api";
+    //private static final String apiKey = "api";
 
     public static void main(String[] args) {
         launch(args);
